@@ -1,0 +1,13 @@
+tipo:CORRIENTE:15000:200.0
+tipo:EXTRA:25000:30.0
+tipo:PREMIUM:30000:15.0
+tipo:PLUS:20000:100.0
+surtidor:Martha:CORRIENTE:0.0:EXTRA:0.0:PREMIUM:0.0:PLUS:0.0
+surtidor:Martha:CORRIENTE:0.0:EXTRA:0.0:PREMIUM:0.0:PLUS:0.0
+surtidor:Martha:CORRIENTE:0.0:EXTRA:0.0:PREMIUM:0.0:PLUS:0.0
+surtidor:Laura:CORRIENTE:0.0:EXTRA:0.0:PREMIUM:0.0:PLUS:0.0
+empleado:Laura:0
+empleado:Tomas:0
+empleado:Valentina:0
+empleado:Sebastian:0
+empleado:Martha:0
